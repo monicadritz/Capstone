@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: ee7bda76a2680ba419114103d7a01c8d
+timeCreated: 1499988840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fanta Fish_0
+    21300002: Fanta Fish_1
+    21300004: Fanta Fish_2
+    21300006: Fanta Fish_3
+    21300008: Fanta Fish_4
+    21300010: Fanta Fish_5
+    21300012: Fanta Fish_6
+    21300014: Fanta Fish_7
+    21300016: Fanta Fish_8
+    21300018: Fanta Fish_9
+    21300020: Fanta Fish_10
+    21300022: Fanta Fish_11
+    21300024: Fanta Fish_12
+    21300026: Fanta Fish_13
+    21300028: Fanta Fish_14
+    21300030: Fanta Fish_15
+    21300032: Fanta Fish_16
+    21300034: Fanta Fish_17
+    21300036: Fanta Fish_18
+    21300038: Fanta Fish_19
+    21300040: Fanta Fish_20
+    21300042: Fanta Fish_21
+    21300044: Fanta Fish_22
+    21300046: Fanta Fish_23
+    21300048: Fanta Fish_24
+    21300050: Fanta Fish_25
+    21300052: Fanta Fish_26
+    21300054: Fanta Fish_27
+    21300056: Fanta Fish_28
+    21300058: Fanta Fish_29
+    21300060: Fanta Fish_30
+    21300062: Fanta Fish_31
+    21300064: Fanta Fish_32
+    21300066: Fanta Fish_33
+    21300068: Fanta Fish_34
+    21300070: Fanta Fish_35
+    21300072: Fanta Fish_36
+    21300074: Fanta Fish_37
+    21300076: Fanta Fish_38
+    21300078: Fanta Fish_39
+    21300080: Fanta Fish_40
+    21300082: Fanta Fish_41
+    21300084: Fanta Fish_42
+    21300086: Fanta Fish_43
+    21300088: Fanta Fish_44
+    21300090: Fanta Fish_45
+    21300092: Fanta Fish_46
+    21300094: Fanta Fish_47
+    21300096: Fanta Fish_48
+    21300098: Fanta Fish_49
+    21300100: Fanta Fish_50
+    21300102: Fanta Fish_51
+    21300104: Fanta Fish_52
+    21300106: Fanta Fish_53
+    21300108: Fanta Fish_54
+    21300110: Fanta Fish_55
+    21300112: Fanta Fish_56
+    21300114: Fanta Fish_57
+    21300116: Fanta Fish_58
+    21300118: Fanta Fish_59
+    21300120: Fanta Fish_60
+    21300122: Fanta Fish_61
+    21300124: Fanta Fish_62
+    21300126: Fanta Fish_63
+    21300128: Fanta Fish_64
+    21300130: Fanta Fish_65
+    21300132: Fanta Fish_66
+    21300134: Fanta Fish_67
+    21300136: Fanta Fish_68
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fanta Fish_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 381
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 381
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 381
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 381
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 325
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 325
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 325
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 307
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 307
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 307
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 307
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_23
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 337
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_24
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 307
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 265
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 265
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 265
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 265
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 247
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 247
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 253
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 247
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 247
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 247
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_35
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 241
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_36
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 247
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 201
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 201
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 217
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 138
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 138
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 138
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 149
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 149
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 148
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_50
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 148
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 80
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_54
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_56
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 120
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 80
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_61
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 80
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_62
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 52
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 52
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 52
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_65
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 49
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 326
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_67
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 52
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fanta Fish_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 47
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

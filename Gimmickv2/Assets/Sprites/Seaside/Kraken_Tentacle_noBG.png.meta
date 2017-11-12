@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: f4a2dac748f283a42a6099da74172394
+timeCreated: 1501262917
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kraken_Tentacle_noBG_0
+    21300002: Kraken_Tentacle_noBG_1
+    21300004: Kraken_Tentacle_noBG_2
+    21300006: Kraken_Tentacle_noBG_3
+    21300008: Kraken_Tentacle_noBG_4
+    21300010: Kraken_Tentacle_noBG_5
+    21300012: Kraken_Tentacle_noBG_6
+    21300014: Kraken_Tentacle_noBG_7
+    21300016: Kraken_Tentacle_noBG_8
+    21300018: Kraken_Tentacle_noBG_9
+    21300020: Kraken_Tentacle_noBG_10
+    21300022: Kraken_Tentacle_noBG_11
+    21300024: Kraken_Tentacle_noBG_12
+    21300026: Kraken_Tentacle_noBG_13
+    21300028: Kraken_Tentacle_noBG_14
+    21300030: Kraken_Tentacle_noBG_15
+    21300032: Kraken_Tentacle_noBG_16
+    21300034: Kraken_Tentacle_noBG_17
+    21300036: Kraken_Tentacle_noBG_18
+    21300038: Kraken_Tentacle_noBG_19
+    21300040: Kraken_Tentacle_noBG_20
+    21300042: Kraken_Tentacle_noBG_21
+    21300044: Kraken_Tentacle_noBG_22
+    21300046: Kraken_Tentacle_noBG_23
+    21300048: Kraken_Tentacle_noBG_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 516
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 516
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 516
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 517
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 514
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 513
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 345
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 346
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 348
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 348
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 344
+        width: 74
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 344
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 176
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 174
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 174
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 175
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 175
+        width: 82
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 99
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 7
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 8
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 80
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kraken_Tentacle_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

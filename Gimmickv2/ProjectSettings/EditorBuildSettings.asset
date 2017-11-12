@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Main Menu.unity
+    guid: abffb09d5c5974e4cb6dd5e42b975e39
+  - enabled: 1
+    path: Assets/Scene/LevelSelect.unity
+    guid: ea31005843d377c469fb3864b66675cf
+  - enabled: 1
+    path: Assets/Scene/Factory Level.unity
+    guid: 7502f1df92cf84b46b532512b2dd20cc
+  - enabled: 1
+    path: Assets/Scene/CaveLevel.unity
+    guid: 5f19e63cd3d074af292cb1fecf8dfbcb
+  - enabled: 1
+    path: Assets/Scene/Seaside Level.unity
+    guid: 22d660399b5e80543b7b26dc204cada9
+  - enabled: 1
+    path: Assets/Scene/Forest Level.unity
+    guid: 417dbab63e9cf8440985d2d8449ab765
+  - enabled: 1
+    path: Assets/Scene/High Score Factory.unity
+    guid: fd4ccd3b59b9e48329bc4583460b501d
+  - enabled: 1
+    path: Assets/Scene/High Score Forest.unity
+    guid: fbc34dceeadd64adba0aaf13aa2048d9
+  - enabled: 1
+    path: Assets/Scene/High Score Seaside.unity
+    guid: e2551d1459dc0417b81d852a3c6ea5eb
+  - enabled: 1
+    path: Assets/Scene/High Score Cave.unity
+    guid: b379f16cec6074e6093871a5380d614e
+  - enabled: 1
+    path: Assets/Scene/High Score Level Select.unity
+    guid: 9b95dcd5b0f90444aa4b6e1f4dc77a52
+  - enabled: 1
+    path: Assets/Scene/Level 1 Factory.unity
+    guid: 277a256095ac82b4eb36c847bffca660
+  - enabled: 1
+    path: Assets/Scene/Level 2 title.unity
+    guid: 67b8b986a527b004f9b5d3a2ed453621
+  - enabled: 1
+    path: Assets/Scene/Level 3 Title.unity
+    guid: f776c1f8cd3d16e4bafac85f94dda956
+  - enabled: 1
+    path: Assets/Scene/Level 4 Title.unity
+    guid: 343dcbd97a7aa7d498868146d9afdf63
+  - enabled: 1
+    path: Assets/Scene/Bilals Sandbox.unity
+    guid: 95aa938b2bd9e418c99016aaf82f7e39
+  - enabled: 1
+    path: Assets/Scene/Monica Sandbox.unity
+    guid: ed501df5ef10e824da759fe9b111f188
+  - enabled: 1
+    path: Assets/Scene/Sandbox.unity
+    guid: dfd76d54ae22311408bc2249878e60ba
+  - enabled: 1
+    path: Assets/Scene/Credits.unity
+    guid: 41f1946f0045bff4cbee95ab3691fdcf

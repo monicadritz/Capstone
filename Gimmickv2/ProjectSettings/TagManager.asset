@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gimmick
+  - Star
+  - StarGround
+  - Ground
+  - KillPlane
+  - Enemy
+  - CaveCeiling
+  - MovingPlatform
+  - Boss
+  - BossSpikes
+  - BossWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Gimmick
+  - Star
+  - StarGround
+  - Enemy
+  - Projectiles
+  - CaveWater
+  - Boss
+  - BossSpikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 747577741
+    locked: 0
+  - name: Water
+    uniqueID: 1322303897
+    locked: 0
+  - name: Crusher
+    uniqueID: 1595930703
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Important Objects
+    uniqueID: 4083298117
+    locked: 0
+  - name: CaveWater
+    uniqueID: 1252628027
+    locked: 0
+  - name: Title Elements
+    uniqueID: 859445629
+    locked: 0
+  - name: Ground
+    uniqueID: 3299438353
+    locked: 0
+  - name: Foreground
+    uniqueID: 2651365755
+    locked: 0

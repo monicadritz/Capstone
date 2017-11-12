@@ -1,0 +1,1420 @@
+fileFormatVersion: 2
+guid: da2dbc37aaea5fe4ab3450d8578e44c6
+timeCreated: 1499965732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mushroom_sheet_0
+    21300002: mushroom_sheet_1
+    21300004: mushroom_sheet_2
+    21300006: mushroom_sheet_3
+    21300008: mushroom_sheet_4
+    21300010: mushroom_sheet_5
+    21300012: mushroom_sheet_6
+    21300014: mushroom_sheet_7
+    21300016: mushroom_sheet_8
+    21300018: mushroom_sheet_9
+    21300020: mushroom_sheet_10
+    21300022: mushroom_sheet_11
+    21300024: mushroom_sheet_12
+    21300026: mushroom_sheet_13
+    21300028: mushroom_sheet_14
+    21300030: mushroom_sheet_15
+    21300032: mushroom_sheet_16
+    21300034: mushroom_sheet_17
+    21300036: mushroom_sheet_18
+    21300038: mushroom_sheet_19
+    21300040: mushroom_sheet_20
+    21300042: mushroom_sheet_21
+    21300044: mushroom_sheet_22
+    21300046: mushroom_sheet_23
+    21300048: mushroom_sheet_24
+    21300050: mushroom_sheet_25
+    21300052: mushroom_sheet_26
+    21300054: mushroom_sheet_27
+    21300056: mushroom_sheet_28
+    21300058: mushroom_sheet_29
+    21300060: mushroom_sheet_30
+    21300062: mushroom_sheet_31
+    21300064: mushroom_sheet_32
+    21300066: mushroom_sheet_33
+    21300068: mushroom_sheet_34
+    21300070: mushroom_sheet_35
+    21300072: mushroom_sheet_36
+    21300074: mushroom_sheet_37
+    21300076: mushroom_sheet_38
+    21300078: mushroom_sheet_39
+    21300080: mushroom_sheet_40
+    21300082: mushroom_sheet_41
+    21300084: mushroom_sheet_42
+    21300086: mushroom_sheet_43
+    21300088: mushroom_sheet_44
+    21300090: mushroom_sheet_45
+    21300092: mushroom_sheet_46
+    21300094: mushroom_sheet_47
+    21300096: mushroom_sheet_48
+    21300098: mushroom_sheet_49
+    21300100: mushroom_sheet_50
+    21300102: mushroom_sheet_51
+    21300104: mushroom_sheet_52
+    21300106: mushroom_sheet_53
+    21300108: mushroom_sheet_54
+    21300110: mushroom_sheet_55
+    21300112: mushroom_sheet_56
+    21300114: mushroom_sheet_57
+    21300116: mushroom_sheet_58
+    21300118: mushroom_sheet_59
+    21300120: mushroom_sheet_60
+    21300122: mushroom_sheet_61
+    21300124: mushroom_sheet_62
+    21300126: mushroom_sheet_63
+    21300128: mushroom_sheet_64
+    21300130: mushroom_sheet_65
+    21300132: mushroom_sheet_66
+    21300134: mushroom_sheet_67
+    21300136: mushroom_sheet_68
+    21300138: mushroom_sheet_69
+    21300140: mushroom_sheet_70
+    21300142: mushroom_sheet_71
+    21300144: mushroom_sheet_72
+    21300146: mushroom_sheet_73
+    21300148: mushroom_sheet_74
+    21300150: mushroom_sheet_75
+    21300152: mushroom_sheet_76
+    21300154: mushroom_sheet_77
+    21300156: mushroom_sheet_78
+    21300158: mushroom_sheet_79
+    21300160: mushroom_sheet_80
+    21300162: mushroom_sheet_81
+    21300164: mushroom_sheet_82
+    21300166: mushroom_sheet_83
+    21300168: mushroom_sheet_84
+    21300170: mushroom_sheet_85
+    21300172: mushroom_sheet_86
+    21300174: mushroom_sheet_87
+    21300176: mushroom_sheet_88
+    21300178: mushroom_sheet_89
+    21300180: mushroom_sheet_90
+    21300182: mushroom_sheet_91
+    21300184: mushroom_sheet_92
+    21300186: mushroom_sheet_93
+    21300188: mushroom_sheet_94
+    21300190: mushroom_sheet_95
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mushroom_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 338
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 339
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 338
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 339
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 339
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 339
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 339
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 338
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 339
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 339
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 290
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 291
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 290
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 291
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 290
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 291
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 290
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 291
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 244
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 242
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 244
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 244
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 242
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 244
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 242
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 196
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 195
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 194
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 195
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 196
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 147
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 146
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 147
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 147
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 147
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 147
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 146
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 147
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 147
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 99
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 98
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 99
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 100
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 98
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 99
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 100
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 52
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 51
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 52
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 51
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 50
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 52
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 51
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 50
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mushroom_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 4
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
